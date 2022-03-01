@@ -1,4 +1,4 @@
-TOKEN = '5067364341:AAF4qlrzW0U-whzpCegPhjWD9jWNAcZ5I-8'        # токен бота Telegram
+TOKEN = ''        # токен бота Telegram
 API_ACCESS_KEY = '57d1e5ed11b71528d7cc23fe0840ba82'     # API Access Key из exchangeratesapi.io
 
 currency = {
